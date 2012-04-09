@@ -1,22 +1,22 @@
-﻿Imggrabber - программа для быстрого скачивания картинок с анимешных имидж-борд (imageboard) написанный на python с интерфейсом на PyQT.
+Imggrabber - программа для быстрого скачивания картинок с анимешных имидж-борд (imageboard) написанный на python с интерфейсом на PyQT.
 
 На данный момент поддерживается 10 борд: 
-	- Konachan.com
-	- Danbooru.donmai.us
-	- Chan.sankakucomplex.com
-	- Idol.sankakucomplex.com
-	- Genso.ws
-	- Yande.re
-	- Behoimi.org
-	- Gelbooru.com
-	- Nekobooru.net
-	- Animemahou.com
+    - Konachan.com
+    - Danbooru.donmai.us
+    - Chan.sankakucomplex.com
+    - Idol.sankakucomplex.com
+    - Genso.ws
+    - Yande.re
+    - Behoimi.org
+    - Gelbooru.com
+    - Nekobooru.net
+    - Animemahou.com
 
 Структура проекта:
 
-	ImgGrabber.py - Основной код. Алгоритмы работы.
-	MainWindow.py - Интерфейс.
-	Settings.ini - Настройки программы.
-	README - Этот файл.
+    ImgGrabber.py - Основной код. Алгоритмы работы.
+    MainWindow.py - Интерфейс.
+    Settings.ini - Настройки программы.
+    README - Этот файл.
 
 Для запуска исходников необходим python версии 2.х и установленный PyQT4.
